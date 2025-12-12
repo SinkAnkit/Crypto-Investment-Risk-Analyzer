@@ -1,41 +1,37 @@
 Table of Contents
 -----------------
 
--   [Project Overview](https://chat.z.ai/c/c27e6500-ce26-4695-bdd7-c1542dcf4d0d#project-overview)
+-   Project Overview
 
--   [Objectives](https://chat.z.ai/c/c27e6500-ce26-4695-bdd7-c1542dcf4d0d#objectives)
+-   Objectives
 
--   [Problem Statement](https://chat.z.ai/c/c27e6500-ce26-4695-bdd7-c1542dcf4d0d#problem-statement)
+-   Problem Statement
 
--   [Dataset Description](https://chat.z.ai/c/c27e6500-ce26-4695-bdd7-c1542dcf4d0d#dataset-description)
+-   Dataset Description
 
--   [System Architecture](https://chat.z.ai/c/c27e6500-ce26-4695-bdd7-c1542dcf4d0d#system-architecture)
+-   System Architecture
 
--   [Algorithms and Methodology](https://chat.z.ai/c/c27e6500-ce26-4695-bdd7-c1542dcf4d0d#algorithms-and-methodology)
+-   Algorithms and Methodology
 
--   [Feature Engineering](https://chat.z.ai/c/c27e6500-ce26-4695-bdd7-c1542dcf4d0d#feature-engineering)
+-   Feature Engineering
 
--   [Risk Analysis Framework](https://chat.z.ai/c/c27e6500-ce26-4695-bdd7-c1542dcf4d0d#risk-analysis-framework)
+-   Risk Analysis Framework
 
--   [Live Analysis System](https://chat.z.ai/c/c27e6500-ce26-4695-bdd7-c1542dcf4d0d#live-analysis-system)
+-   Live Analysis System
 
--   [Results and Performance](https://chat.z.ai/c/c27e6500-ce26-4695-bdd7-c1542dcf4d0d#results-and-performance)
+-   Results and Performance
 
--   [Installation and Setup](https://chat.z.ai/c/c27e6500-ce26-4695-bdd7-c1542dcf4d0d#installation-and-setup)
+-   Installation and Setup
 
--   [Usage Guide](https://chat.z.ai/c/c27e6500-ce26-4695-bdd7-c1542dcf4d0d#usage-guide)
+-   Project Structure
 
--   [Project Structure](https://chat.z.ai/c/c27e6500-ce26-4695-bdd7-c1542dcf4d0d#project-structure)
+-   Visualizations
 
--   [Visualizations](https://chat.z.ai/c/c27e6500-ce26-4695-bdd7-c1542dcf4d0d#visualizations)
+-   Limitations and Future Work
 
--   [Limitations and Future Work](https://chat.z.ai/c/c27e6500-ce26-4695-bdd7-c1542dcf4d0d#limitations-and-future-work)
+-   References
 
--   [References](https://chat.z.ai/c/c27e6500-ce26-4695-bdd7-c1542dcf4d0d#references)
-
--   [Contributors](https://chat.z.ai/c/c27e6500-ce26-4695-bdd7-c1542dcf4d0d#contributors)
-
--   [License](https://chat.z.ai/c/c27e6500-ce26-4695-bdd7-c1542dcf4d0d#license)
+-   License
 
 Project Overview
 ----------------
@@ -906,7 +902,7 @@ Contributors
 
 ### Project Author
 
-[Ankit Singh]
+Ankit Singh
 
 
 
@@ -957,7 +953,7 @@ Contact
 
 For questions, suggestions, or contributions:
 
--   **Email**: [<ankitsingh92004@gmail.com>]
+-   **Email**: <ankitsingh92004@gmail.com>
 
 -   **GitHub Issues**: Create an issue
 
